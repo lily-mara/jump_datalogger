@@ -1,0 +1,4 @@
+[package]
+name = "jump-datalogger"
+version = "0.1.0"
+authors = ["Nate Mara <natemara@gmail.com>"]
